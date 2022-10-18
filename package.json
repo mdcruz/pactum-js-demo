@@ -1,0 +1,15 @@
+{
+  "name": "pactum-js-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.0",
+    "pactum": "^3.2.2"
+  }
+}
